@@ -1,0 +1,21 @@
+I"…<p>On the prairie we follow some rules.</p>
+
+<ul>
+  <li><strong>Room</strong> is an atomic, autonomous note in Markdown.
+    <ul>
+      <li>Every room has a door, a descriptive link.</li>
+    </ul>
+  </li>
+  <li><strong>Hall</strong> contain <em>doors</em> to related <em>rooms</em> to depict a common theme.</li>
+  <li><strong>Terrace</strong> is a .md note that draws connections from the rooms to the context of the prairie.</li>
+  <li><strong>Chimney</strong> is a .md note that is the unifying narrative of everything above.</li>
+</ul>
+
+<p>While living on the prairie, thereâ€™s a lot to learn, starting from the [[[50-Glossary]]].</p>
+
+<h2 id="doors">Doors</h2>
+
+<p>We can use notes in Markdown to build rooms, halls, and more.</p>
+
+<p>Most importantly, we want to tell meaningful stories that encompass the <a href="/2020/12/25/Prairie-Style-Elements">elements</a> of a prairie style home.</p>
+:ET

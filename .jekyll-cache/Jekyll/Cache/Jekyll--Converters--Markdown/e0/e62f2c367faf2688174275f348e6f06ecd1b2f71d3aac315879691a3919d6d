@@ -1,0 +1,69 @@
+I".<p>On the prairie we follow some <a href="51-Elements-of-a-prairie-style-home.md">rules</a>.</p>
+
+<ul>
+  <li><strong>Room</strong> is an atomic, autonomous note in Markdown.
+    <ul>
+      <li>Every room has a door, a descriptive link.</li>
+    </ul>
+  </li>
+  <li><strong>Hall</strong> contain <em>doors</em> to related <em>rooms</em> to depict a common theme.</li>
+  <li><strong>Terrace</strong> is a .md note that draws connections from the rooms to the context of the prairie.</li>
+  <li><strong>Chimney</strong> is a .md note that is the unifying narrative of everything above.</li>
+</ul>
+
+<p>While living on the prairie, there’s a lot to learn, starting from the [[[50-Glossary]]].</p>
+
+<p>Tags:</p>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><em>tutorials</em></td>
+          <td>for practical steps + studying (get started)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><em>how-to</em></td>
+          <td>for practical steps + application (how-to guides)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><em>reference</em></td>
+          <td>for theoretical concepts + application (technical reference)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><em>eli5</em></td>
+          <td>for theoretical concepts + studying (context)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<h2 id="doors">Doors</h2>
+
+<p>We can use [[[50-templates]]] to build rooms, halls, and more.</p>
+
+<p>We build considering the [[[51-Zettelkasten-principles]]], atomically and dynamic.</p>
+
+<p>Most importantly, we want to tell meaningful stories that encompass the [[[51-Elements-of-a-prairie-style-home]]]</p>
+
+:ET

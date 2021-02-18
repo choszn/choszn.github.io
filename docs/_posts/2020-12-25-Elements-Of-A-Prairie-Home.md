@@ -1,3 +1,9 @@
+---
+tags: room
+layout: "post"
+title: "Prairie-Style-Elements"
+date:   2020-12-25 16:58:41 -0800
+---
 # Elements of a prairie style home
 
 ![Prairie Home](./static/prairie_house_1.jpg)

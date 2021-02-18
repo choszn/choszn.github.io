@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
 ---
+
 On the prairie we follow some rules.
 
 - **Room** is an atomic, autonomous note in Markdown.
