@@ -1,7 +1,8 @@
 ---
 date: 2020-12-27T19:11
-tags: [💧]
 category: code
+tags: 💧
+layout: "post"
 ---
 
 # How To Foster Leadership in Crowdfunding Networks

@@ -5,9 +5,8 @@ layout: "post"
 title: "Elements of a Prairie Style Home"
 date:   2020-12-25 16:58:41 -0800
 ---
-# Elements of a prairie style home
 
-![Prairie Home](./static/prairie_house_1.jpg)
+![Prairie Home](/assets/images/prairie_house_1.jpg)
 
 “Architecture is the scientific art of making structure express ideas.” — FLW (1932)
 
@@ -62,10 +61,13 @@ Create a Hallway (Molecules)
 
 - Hallway for parallel doors (*"molecules")*
 
+<hr/>
 ## Doors
 
-The prairie style method is combined with [[51-Zettelkasten-principles]] to translate ideas to rooms, as well as the cultivation of new ones to eventually tell a story that is the prairie home.
+- This is the underlying guide that I am using as a model to build this directory of ideas, outlined at [the guide]({% link guide.markdown %}).
 
+
+<hr/>
 ## Refs
 
- [Patterns of the Prairie House (Taylor 2002)](
+  - [Patterns of the Prairie House (Taylor 2002)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.5176&rep=rep1&type=pdf)

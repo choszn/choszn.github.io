@@ -6,7 +6,7 @@ permalink: /guide/
 
 
 
-This is where we build ideas and compose narratives in a similar fashion to a [prairie home](/design/2020/12/25/Elements-Of-A-Prairie-Home).
+This is where we build ideas and compose narratives in a similar fashion to a [prairie style home]({% post_url 2020-12-25-Elements-Of-A-Prairie-Home %}).
  
 
 - <span style='font-size:25px;'>💧</span> A **Room** is an atomic, autonomous note in Markdown.

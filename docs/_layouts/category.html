@@ -29,7 +29,6 @@ Here we generate all the categories.
 {% endif %}
 {% endfor %}
 
-
 <br/>
 
 <div class="posts">
@@ -40,6 +39,7 @@ Here we generate all the categories.
 
 </h2>
 {{content}}
+
 {% for ct in cats %}
 <h2 id="{{ ct | slugify }}">🌎 [{{ ct }}]</h2>
 <ul>
@@ -52,7 +52,7 @@ Here we generate all the categories.
         <small>{{ post.date | date_to_string }}</small>
       </a>
       {% for tag in post.tags %}
-      <a href="/tag/#{{ tag | slugify }}">{{ tag }}</a>
+       <span style='font-size:16px; color:#02BCF2'>{{ tag }}</span></a>
       {% endfor %}
     </h3>
   </li>
