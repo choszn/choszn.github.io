@@ -16,5 +16,5 @@ This is where we build ideas and compose narratives in a similar fashion to a [p
 <br />
 
 
-From a worm's eye view of the prairie, we can see nearby, related [flowers](/Tags).<br />
-From a bird's eye view of the prairie, we can see clear, distinct [fields](/categories). <br />
+From a worm's eye view of the prairie, we can see nearby, related [FLOWERS](/Tags).<br />
+From a bird's eye view of the prairie, we can see clear, distinct [FIELDS](/categories). <br />
