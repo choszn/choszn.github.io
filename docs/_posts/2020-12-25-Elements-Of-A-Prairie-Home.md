@@ -1,4 +1,5 @@
 ---
+category: design
 tags: room
 layout: "post"
 title: "Prairie-Style-Elements"
