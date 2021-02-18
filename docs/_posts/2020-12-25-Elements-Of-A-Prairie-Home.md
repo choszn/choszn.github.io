@@ -1,8 +1,8 @@
 ---
 category: design
-tags: room
+tags: 💧
 layout: "post"
-title: "Prairie-Style-Elements"
+title: "Elements of a Prairie Style Home"
 date:   2020-12-25 16:58:41 -0800
 ---
 # Elements of a prairie style home

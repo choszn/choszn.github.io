@@ -1,4 +1,9 @@
 ---
-layout: default
-date: 2018-05-30 18:46:00-8:00
+layout: category
 ---
+
+<ul><h3>
+{% for tag in site.tags %}
+<a href="/tag/{{ tag | first | replace: ' ', '-' | downcase }}">{{ tag | first }} |</a>
+{% endfor %}
+</h3></ul>

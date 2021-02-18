@@ -1,9 +1,8 @@
 ---
-tags: hall
+tags: 🌊
 layout: post
 title:  "Prairie Rules"
 date:   2020-12-25 16:58:41 -0800
-category_name: Hall
 ---
 
 On the prairie we follow some [rules](51-Elements-of-a-prairie-style-home.md).

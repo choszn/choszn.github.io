@@ -8,15 +8,15 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:    30px !default;
 
 $text-color:       #fff !default;
-$background-color: #1a2029 !default;
+$background-color: #0D1C2F !default;
 $brand-color:      #ffc857 !default;
 
-$grey-color:       #ced4da !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color:       #ffc857 !default;
+$grey-color-light: 	#2E3A59;
+$grey-color-dark:  #FE880C;
 
 $table-text-align: left !default;
 

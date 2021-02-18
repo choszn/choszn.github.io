@@ -1,30 +1,21 @@
 ---
 layout: default
 ---
-
+{{content}}
 <div id="search-demo-container">
-  <input type="search" id="search-input" placeholder="Search the prairie...">
+  <input type="search" id="search-input" placeholder="🔎">
   <ul id="results-container"></ul>
 </div>
+
+<hr/>
 <div>
-
-<h1>Flowers</h1>
 {% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <a href="{{ post.url }}">{{ post.title }}</a>      {% for tag in post.tags %}
+      <a>[{{ tag }}]</a> |
+      {% endfor %}
     {% endfor %}
-  </ul>
+
 {% endfor %}
 
-<h1>Fields</h1>
-{% for tag in site.categories %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-</div>
+<hr/>
