@@ -35,7 +35,36 @@ collections:
 theme: minima
 plugins:
   - jekyll-feed
+autopages:
+  enabled: true
+  collections:
+    enabled: false
+  categories:
+    enabled: true
+    layouts:
+      - home.html
+    permalink: '/blog/category/:cat'
+    slugify:
+      mode: pretty
+  tags:
+    enabled: true
+    layouts:
+      - home.html
+    permalink: '/blog/tag/:tag'
+    slugify:
+      mode: pretty
 
+pagination:
+  enabled: true
+  per_page: 4
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: 'true'
+  trail:
+      before: 2
+      after: 2
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
